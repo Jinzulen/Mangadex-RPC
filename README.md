@@ -40,3 +40,13 @@ Share your reading habits and preferences on Mangadex seemlessly with your frien
 - This usually happens if you're using GNOME without the indicators extension installed and enabled.
 
 > I don't really like Tampermonkey, can't I use GM or VM?
+- You can use whichever injector you're most comfortable with, I just tend to prefer working with TM.
+
+> Why not include the manga's cover photo in the RPC?
+- Unfortunately, that can't be done. RPC assets have to be set in the application's dashboard and are limited to 150 items. Should Discord support an alternative method in the future, I will update the script accordingly.
+
+> Why do I have to download and run some JAR file to get this thing to work? It's so inconvenient!
+- Unfortunately, this is the only way to offer an RPC plugin right now. Believe me, I hate adding inconvenient steps to my work just as much as you hate going through them. I can't make any promises but I am studying a few alternative methods for RPC/DPS integration.
+
+### License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJinzulen%2FMangadex-RPC.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJinzulen%2FMangadex-RPC?ref=badge_large)
