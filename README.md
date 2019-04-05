@@ -1,6 +1,7 @@
 ![Mangadex Logo](https://mangadex.org/images/misc/navbar.svg)
 # Mangadex-RPC
 [![Build Status](https://scrutinizer-ci.com/g/Jinzulen/Mangadex-RPC/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Jinzulen/Mangadex-RPC/build-status/master) [![Maintainability](https://api.codeclimate.com/v1/badges/990f8b50b19662b84f1a/maintainability)](https://codeclimate.com/github/Jinzulen/Mangadex-RPC/maintainability) [![CodeFactor](https://www.codefactor.io/repository/github/jinzulen/mangadex-rpc/badge/master)](https://www.codefactor.io/repository/github/jinzulen/mangadex-rpc/overview/master) 
+
 Share your reading habits and preferences on Mangadex seemlessly with your friends on Discord thanks to this Discord RPC addon.
 
 ### Download & Setup
