@@ -31,7 +31,7 @@ Share your reading habits and preferences on Mangadex seemlessly with your frien
 
 **Note #2:** If the Rich Presence doesn't appear even though your status isn't set to invisible/offline, then reload Discord.
 
-#### 2.B Screenshots
+### Screenshots
 ![What it looks like on the user profile.](https://greasyfork.org/system/screenshots/screenshots/000/014/769/original/Screenshot_2019-03-28_17-39-43.png?1553794056 "What it looks like on the user profile.") ![What it looks like on the user popup.](https://greasyfork.org/system/screenshots/screenshots/000/014/768/original/Screenshot_2019-03-28_18-01-48.png?1553794056 "What it looks like on the user popup.")
 
 ### FAQ
