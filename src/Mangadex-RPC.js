@@ -3,6 +3,8 @@
 // @version  0.0.1M
 // @author   Jinzulen
 // @icon     https://mangadex.org/favicon-192x192.png
+// @updateURL https://raw.githubusercontent.com/Jinzulen/Mangadex-RPC/master/src/Mangadex-RPC.js
+// @downloadURL https://raw.githubusercontent.com/Jinzulen/Mangadex-RPC/master/src/Mangadex-RPC.js
 // @description Share your Mangadex reads with Discord RPC.
 //
 // @grant GM_notification
